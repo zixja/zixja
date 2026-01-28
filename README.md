@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Welcome&fontSize=42&fontColor=ffffff" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <zix></h1>
+<h1 align="center">👋 Hi, I'm Zix</h1>
 <h3 align="center">Developer • FiveM • Scripting • Systems</h3>
 
 <p align="center">
