@@ -66,7 +66,7 @@ _(See pinned repositories below 👇)_
 ## 📫 Contact
 
 - 💬 Discord: **zixmy**
-
+- 📧 Email: zix.info@protonmail.com
 ---
 
 <p align="center">
